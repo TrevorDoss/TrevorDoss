@@ -1,5 +1,5 @@
 Hi, my name is Trevor Doss! 
 
-I will have many of my coding projects on here as time goes on.
-   - 
+Coding Projects I have contributed to:
+   - https://github.com/mstewart5/fluffy-dollop
  
