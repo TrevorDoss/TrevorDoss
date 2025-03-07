@@ -6,4 +6,4 @@ Coding Projects I have contributed to:
    - **Website (Frontend):** https://github.com/mstewart5/fluffy-dollop **(Must run frontend and backend simultaneously)**
    - **Website (Backend):** https://github.com/mstewart5/fluffy-dollop-backend **(Must run frontend and backend simultaneously)**
      
- Currently working on: 3D isometric video game in a team of 2
+ Currently working on: Developing a 3D horror game for PC independently on UE5
